@@ -1,0 +1,23 @@
+.mg-label{
+    width:auto;
+    float:left;
+    margin: 5px;
+}
+#metrics,#dimensions,.maxResult{
+    float:left;
+}
+#startDate,#endDate{
+    width:100px;
+}
+#datetimepickerStartDate,#datetimepickerEndDate{
+    width: auto;
+    float:left;
+    line-height: 40px;
+}
+.maxResult,.sort{
+    width: auto;
+    float:left;
+}
+.blockMetrics,.blockSort,.blockMaxResult{
+    display: none;
+}
